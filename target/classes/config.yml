@@ -1,0 +1,19 @@
+pvp-region: "pvp"
+enable-notify: true
+location-spawn:
+  ==: org.bukkit.Location
+  world: world
+  x: -73.57836431449056
+  y: 146.0
+  z: -256.4685867676795
+  pitch: -9.30005
+  yaw: 150.74573
+messages:
+  help: "asdasd"
+  notify:
+    enter: "&c&lPVP &fВы вошли на пвп арену"
+    leave: "&c&lPVP &fВы вышли с пвп арены"
+  setspawn: "&c&lPVP &fВы успешно установили новую точку спавна"
+  set: "&c&lPVP &fВы успешно установили новый набор для пвп"
+  no-perm: "У вас нет прав на выполнение этой команды!"
+  reload: "&c&lCordePvPKits &fПлагин успешно перезагружен!"
